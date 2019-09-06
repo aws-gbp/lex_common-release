@@ -1,0 +1,12 @@
+Source: ros-dashing-lex-common
+Section: misc
+Priority: extra
+Maintainer: AWS RoboMaker <ros-contributions@amazon.com>
+Build-Depends: debhelper (>= 9.0.0), cmake, ros-dashing-ament-cmake, ros-dashing-ament-cmake-gmock, ros-dashing-ament-cmake-gtest, ros-dashing-aws-common (>= 2.0.0), ros-dashing-ros-environment, ros-dashing-ros-workspace
+Homepage: http://wiki.ros.org/aws_common
+Standards-Version: 3.9.2
+
+Package: ros-dashing-lex-common
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-dashing-aws-common (>= 2.0.0), ros-dashing-ros-workspace
+Description: Lex Common utilities, intended for use by Lex clients
