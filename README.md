@@ -1,3 +1,26 @@
+## lex_common (melodic) - 1.0.1-1
+
+The packages in the `lex_common` repository were released into the `melodic` distro by running `/usr/local/bin/bloom-release lex_common --track melodic --rosdistro melodic -e` on `Thu, 17 Feb 2022 05:53:43 -0000`
+
+The `lex_common` package was released.
+
+Version of package(s) in repository `lex_common`:
+
+- upstream repository: https://github.com/jikawa-az/lex-common.git
+- release repository: https://github.com/aws-gbp/lex_common-release.git
+- rosdistro version: `1.0.0-1`
+- old version: `1.0.0-1`
+- new version: `1.0.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## lex_common (dashing) - 1.0.0-1
 
 The packages in the `lex_common` repository were released into the `dashing` distro by running `/home/ANT.AMAZON.COM/miaofei/.local/bin/bloom-release lex_common --track dashing --rosdistro dashing -e` on `Fri, 06 Sep 2019 22:48:57 -0000`
